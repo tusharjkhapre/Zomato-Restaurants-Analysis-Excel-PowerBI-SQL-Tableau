@@ -1,4 +1,5 @@
-# Zomato Restaurants Analysis (./images/banner.jpg)
+# Zomato Restaurants Analysis 
+![Zomato Restaurants Analysis](./images/banner.jpg)
 
 ## Overview
 This project involves a comprehensive analysis of Zomato restaurant data using advanced Excel functions, SQL queries, and interactive dashboards created with Power BI and Tableau. The primary objective is to extract valuable insights into restaurant industry trends related to location, opening trends, ratings, and price ranges.
